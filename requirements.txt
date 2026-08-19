@@ -1,0 +1,7 @@
+numpy>=1.24
+scikit-learn>=1.3
+pytest>=7.0
+
+# Optional: enables the Keras training path in src/train.py.
+# Without it the script falls back to the scikit-learn MLP.
+# tensorflow>=2.13
